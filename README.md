@@ -1,5 +1,6 @@
 # Google Drive API Script
 A simple Google Drive API Script that iterates through a list of Google Drive links stored in a txt file and downloads them using the API. <br>
+This script is mainly useful if you have scraped a webpage for Google Drive links already and want to bulk download a large set of links using the API. <br>
 To run this script on your own you will need to: <br>
 -setup your first Google Drive [application.](https://archive.vn/0a8Sf) <br>
 -setup your OAuth token and the consent screen in the Google Developer console as described [here](https://support.google.com/cloud/answer/6158849?hl=en) <br>
