@@ -1,4 +1,4 @@
-# Google Drive API Script <br>
+# Google Drive API Script
 A simple Google Drive API Script that iterates through a list of Google Drive links stored in a txt file and downloads them using the API. <br>
 To run this script on your own you will need to: <br>
 -setup your first Google Drive [application.](https://archive.vn/0a8Sf) <br>
