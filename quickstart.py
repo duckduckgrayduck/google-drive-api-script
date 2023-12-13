@@ -5,7 +5,7 @@ gauth = GoogleAuth()
 gauth.LocalWebserverAuth()
 drive = GoogleDrive(gauth)
 
-with open('drivelinks.txt', 'r') as file:
+with open('new.txt', 'r') as file:
 	lines = file.readlines()
 	for line in lines:
 		fileid= line.strip()
